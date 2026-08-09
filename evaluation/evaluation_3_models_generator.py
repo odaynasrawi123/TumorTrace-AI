@@ -171,7 +171,7 @@ models = [
 
 df = pd.DataFrame(models)
 
-# FIXED: create error columns before using them in graphs
+
 df["false_positives"] = df["fp"]
 df["false_negatives"] = df["fn"]
 df["total_errors"] = df["fp"] + df["fn"]
