@@ -20,7 +20,3 @@ Expected folders:
 
 \- Annotations/
 
-\- datasets/master\_dataset.csv
-
-\- datasets/dataset.xlsx
-
